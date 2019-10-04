@@ -10,7 +10,7 @@ let tickNumber = 0;
 // per-tick updates
 serverSystem.update = function() {
 	if(tickNumber === 50) {
-		this.createNPC("minecraft:vindicator", 15, 66, -29);
+		this.createNPC("fallmountquests:vindicator", -25, 67, -50);
 	}
 
 	tickNumber++;
