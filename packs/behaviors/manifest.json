@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "FallmountQuests Behaviors",
+    "description": "Quests for Fallmount Kingdom",
+    "uuid": "3f06f405-47ae-4240-8b4b-cac639815364",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for FallmountQuests",
+      "type": "client_data",
+      "uuid": "394a1817-249c-4682-938d-03a809879ddf",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "c85b2249-5928-47d0-8ee4-e774e11afead",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
